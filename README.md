@@ -10,10 +10,7 @@ Customizable: Easily modifiable code to add new features or strategies.
 
 Demo Video
 Below is a video showcasing the gameplay of the Blackjack game. Watch it to see how the game looks and plays!
-[20250611_192425.mp4]
-Note: Replace [Insert Video Link Here] with the actual link to your video once you upload it (e.g., to YouTube, Google Drive, or GitHub). If you embed a video hosted on GitHub, you can use:![Gameplay Video](path/to/video.mp4)or link to an external video:[Watch Gameplay Video](https://youtube.com/your-video-link).
-Requirements
-To run this project, you need the following:
+20250611_192425.gif
 
 Python: Version 3.6 or higher
 Pygame: For rendering the game interface
