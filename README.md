@@ -13,6 +13,5 @@ A Pygame-based Blackjack game using reinforcement learning logic. Built in Pytho
 ## 📽️ Demo
 
 ### 📸 Gameplay demo  
-*(Make sure `20250611_192425.gif` is in the repo root)*
 
 ![Blackjack Demo](20250611_192425.gif)
