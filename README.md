@@ -10,7 +10,7 @@ Customizable: Easily modifiable code to add new features or strategies.
 
 Demo Video
 Below is a video showcasing the gameplay of the Blackjack game. Watch it to see how the game looks and plays!
-20250611_192425.gif
+![Gameplay Demo](20250611_192425.gif)
 
 Python: Version 3.6 or higher
 Pygame: For rendering the game interface
